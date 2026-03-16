@@ -2,9 +2,33 @@
 <container>
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
-    <rootfile full-path="Moliendo-cafe.mscx"/>
+    <rootfile full-path="Manea-cu-voca.mscx"/>
+    <rootfile full-path="Excerpts/0_Horn_in_F_1/0_Horn_in_F_1.mss"/>
+    <rootfile full-path="Excerpts/0_Horn_in_F_1/0_Horn_in_F_1.mscx"/>
+    <rootfile full-path="Excerpts/1_Horn_in_F_2/1_Horn_in_F_2.mss"/>
+    <rootfile full-path="Excerpts/1_Horn_in_F_2/1_Horn_in_F_2.mscx"/>
+    <rootfile full-path="Excerpts/2_Horn_in_F_3/2_Horn_in_F_3.mss"/>
+    <rootfile full-path="Excerpts/2_Horn_in_F_3/2_Horn_in_F_3.mscx"/>
+    <rootfile full-path="Excerpts/3_Trombone/3_Trombone.mss"/>
+    <rootfile full-path="Excerpts/3_Trombone/3_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/4_Bass_Trombone/4_Bass_Trombone.mss"/>
+    <rootfile full-path="Excerpts/4_Bass_Trombone/4_Bass_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/5_Baritone_Horn/5_Baritone_Horn.mss"/>
+    <rootfile full-path="Excerpts/5_Baritone_Horn/5_Baritone_Horn.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Horn_in_F_1/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Horn_in_F_1/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Horn_in_F_2/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Horn_in_F_2/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_Horn_in_F_3/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_Horn_in_F_3/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_Bass_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_Bass_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_Baritone_Horn/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_Baritone_Horn/audiosettings.json"/>
     </rootfiles>
   </container>
