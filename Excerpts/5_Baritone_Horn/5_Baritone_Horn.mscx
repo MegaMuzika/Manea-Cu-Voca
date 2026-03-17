@@ -3,7 +3,7 @@
   <programVersion>4.6.5</programVersion>
   <programRevision>653f38d</programRevision>
   <Score>
-    <eid>01m5mf4w/m_FZnRfqqMeAD</eid>
+    <eid>r1f189PiwVF_9Ws33btJDKG</eid>
     <name>Baritone Horn</name>
     <initialPartId>9</initialPartId>
     <Division>480</Division>
@@ -21,7 +21,7 @@
     <metaTag name="partName">Baritone Horn</metaTag>
     <Part id="9">
       <Staff>
-        <eid>1IGfr0EYcuB_XodgzkokrIC</eid>
+        <eid>+s74HYKJQLC_ki4s9xfPvLO</eid>
         <linkedTo>sVVdP8BK1IL_is6ii5fHECP</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
@@ -52,42 +52,42 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <eid>9kxmtLmz/rG_4PbDJClCHLD</eid>
+        <eid>YuZazRb4vIL_zeo7MdPricG</eid>
         <linkedTo>N2n5T06qfGP_CL84jJ5z/ZO</linkedTo>
         <Text>
-          <eid>h7EgrWRVCxL_8IctQM/0jfF</eid>
+          <eid>CMsDIfkkiMM_/rYyKDmoFJH</eid>
           <linkedTo>17W3ssh3zuG_5Jn8GCKLuMB</linkedTo>
           <style>title</style>
           <text>Manea cu voca</text>
           </Text>
         <Text>
-          <eid>mFVxpkuBHrG_+6XAUf1B3LL</eid>
+          <eid>mX6dNDft6GF_7bgLs11rLsF</eid>
           <linkedTo>uuTXuPxuas_pMh1cA1IkFE</linkedTo>
           <style>subtitle</style>
           <text>הרכב בלקני משגע</text>
           </Text>
         <Text>
-          <eid>9nYb9oW/FUJ_OuMj9IHref</eid>
+          <eid>l5+C95Jn+fK_18En+owWonD</eid>
           <linkedTo>A22Dk62fFOP_egDWMTGon+K</linkedTo>
           <style>composer</style>
           <text>Composer / arranger</text>
           </Text>
         <Text>
-          <eid>aVerNoU28RE_hi1o6Si9tpO</eid>
+          <eid>27aFb51uXkF_D4OPqnXNpyL</eid>
           <style>instrument_excerpt</style>
           <text>Baritone Horn</text>
           </Text>
         </VBox>
       <Measure>
-        <eid>yUpm/pMzfKG_V1uZM5yCGVN</eid>
+        <eid>KpCmqXW++/_/Di9ZosztmM</eid>
         <voice>
           <KeySig>
-            <eid>CsHz1hoPDUK_bt1MsMWSWFC</eid>
+            <eid>HH39gII0xXF_PZlwLV5h1N</eid>
             <linkedTo>Fj3YPoIBDY_mgjA5bRzmRG</linkedTo>
             <concertKey>-5</concertKey>
             </KeySig>
           <TimeSig>
-            <eid>7uIwBDE+BLM_uqWchGTxrOJ</eid>
+            <eid>RwlWWlRVBa_R1DvZ362kCD</eid>
             <linkedTo>TCmcfD9fFSF_ek5A6ApiJAP</linkedTo>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -95,12 +95,12 @@
           <Tempo>
             <tempo>1.8</tempo>
             <followText>1</followText>
-            <eid>DSsHs4Mo0cH_re9ueJdOmVL</eid>
+            <eid>dmCJETu6wUG_gyLge5VwgQO</eid>
             <linkedTo>57gJvW6sOHK_BZu/hSSHLGN</linkedTo>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 108</text>
             </Tempo>
           <Rest>
-            <eid>8KnOS+WmyRH_NBA1o53ojV</eid>
+            <eid>pFpsDjl/SeE_sfMkHcnLWbB</eid>
             <linkedTo>Rd2osFKc9bK_W01agmMaLf</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -108,10 +108,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>a4yegC+x28H_t4kd/uVjueE</eid>
+        <eid>ogj3Bd+ecnN_0EETbW67Q7K</eid>
         <voice>
           <Rest>
-            <eid>9vW7BKkhyTD_ZqPk5/ehg2M</eid>
+            <eid>r9R3JCsMM1K_Ip6eR+tMIHC</eid>
             <linkedTo>K+UbBao0O6F_PECWjIKIpIC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -119,10 +119,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>CDG9XM6xc3O_x8M5JrUhAfC</eid>
+        <eid>Cc2IazWr+pJ_c0XVXsm7HcP</eid>
         <voice>
           <Rest>
-            <eid>Tb5FSXyPcNF_ANs3xr61VJI</eid>
+            <eid>6CGnR8a3W7M_bidaAq7CO0P</eid>
             <linkedTo>ZlmaG5XRK7P_6RKiWpkKoBJ</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -130,10 +130,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>6xzVayLnCrK_gRJdzWrS5OF</eid>
+        <eid>InWsgy8lyJM_fPSzh+XlnND</eid>
         <voice>
           <Rest>
-            <eid>q/9P+8ifu1O_4zpgxZFEpzN</eid>
+            <eid>CQNPi12QFTM_aaqxQoCFmkE</eid>
             <linkedTo>TXdEnTk/hQB_xwDQ2VtGG1J</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -141,10 +141,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>ivW361g0auP_IZIG9mgx+0K</eid>
+        <eid>2tsjuwt9lHI_Sm5ZTPnAMxN</eid>
         <voice>
           <Rest>
-            <eid>w0dTCB5KLYM_uHUlN8xTn1K</eid>
+            <eid>4kKBKzCCglH_lTL2jFQv0KN</eid>
             <linkedTo>954+etQ9qhL_huwOC5ox4Z</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -152,10 +152,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>pW70oj6EeBC_dJdpyNjiFOE</eid>
+        <eid>PkRLclTNadG_dlj0zdFCxAC</eid>
         <voice>
           <Rest>
-            <eid>3qORt0qZ/ME_qK3ToE9fJkC</eid>
+            <eid>h3j8A1Aj+eI_trXCipK3eqI</eid>
             <linkedTo>reCuQLH3emI_jxnS8VoJ+zO</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -163,10 +163,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>BkbwkXhZfuB_+Tvm9h/kQSG</eid>
+        <eid>f0bpkyBdcSD_W3VhPlMV2OO</eid>
         <voice>
           <Rest>
-            <eid>4633e3ooIOM_9P/POAOwZ5J</eid>
+            <eid>vJyHOFad6bE_rz7veKwFq+D</eid>
             <linkedTo>g3QApxSV4bK_7vbAsMC9mrL</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -174,10 +174,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>Vr/hI/NrNAP_6qKYG6Evs0G</eid>
+        <eid>GL2EEECxL/B_A+zoZi2MBbF</eid>
         <voice>
           <Rest>
-            <eid>1vUvmCCU/HN_IXcs2ulCnnD</eid>
+            <eid>eG4kE1fH3BM_TwyU8Ssr9oI</eid>
             <linkedTo>FqDIdBl2hFB_Mjh+6Z3ZWQI</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -185,15 +185,15 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>IZAIqq9wK/K_dne8/+oenmC</eid>
+        <eid>JrVFCJZGt4N_ZcagXatP+P</eid>
         <voice>
           <RehearsalMark>
-            <eid>wPHKzAMIpd_V4GjDvZrBoE</eid>
+            <eid>TZ1JVJd4gpC_PBctE0npwBC</eid>
             <linkedTo>KTLvDj3WNyE_Gbt0fB54OkP</linkedTo>
             <text>A1</text>
             </RehearsalMark>
           <Rest>
-            <eid>JBI3IPjYZEB_3JITquhxRdB</eid>
+            <eid>49mcgB8S3HN_w7iLT0RTDKK</eid>
             <linkedTo>vo7lHX5hvYM_YRV9tZcInwP</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -201,10 +201,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>W2NIS0tGzD_19ozyZDUaDD</eid>
+        <eid>ciZ1cDf1rSO_4VcrWTViTxE</eid>
         <voice>
           <Rest>
-            <eid>vTrkqh+/1KN_JFkx4kvk5ME</eid>
+            <eid>s9W2ty5tHWG_1Jo48Jh0oDH</eid>
             <linkedTo>NJYlOG+pM/_SbTiPQOLRd</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -212,10 +212,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>yPE8ddHhHSM_RtyIA17BXDF</eid>
+        <eid>u3ijlULuVWI_ZkKNMk+82QG</eid>
         <voice>
           <Rest>
-            <eid>UnRTsreNfEL_fUSMfWE95xG</eid>
+            <eid>iCrISWpcHhN_BklMF09HAlH</eid>
             <linkedTo>JGbM4q+BAPN_pYVPwGnlJoC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -223,10 +223,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>NEOLrwd+IjO_+7RuvKNWXGN</eid>
+        <eid>Ne6y3oX38ME_0IUcbczlEaG</eid>
         <voice>
           <Rest>
-            <eid>4pI3beKYpVJ_8HsfSzZU0KF</eid>
+            <eid>LDjw+3P7iTD_/ZJOJHmpdaP</eid>
             <linkedTo>vqaOiinPb7O_xYdQlejPDBH</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -234,10 +234,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>kqukzZ+5+oO_9zZ5WyqqJbG</eid>
+        <eid>L/c0+NfRUUP_MIFyknOg+5O</eid>
         <voice>
           <Rest>
-            <eid>wfD2cs0l67N_1CUjJwLjNJL</eid>
+            <eid>VeyGdcXqPRM_vGIsvw5LGZL</eid>
             <linkedTo>llS6huFahwJ_zlzQriSCXfF</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -245,10 +245,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>vbUuPQG83kP_pTh7xvkW57F</eid>
+        <eid>fh9qfK0vOsL_gkKpcLxrNgC</eid>
         <voice>
           <Rest>
-            <eid>8J7AFsbDilI_CJmU/Ozl2/F</eid>
+            <eid>zaN60mCmDHN_p+mq7IH0b0L</eid>
             <linkedTo>0iYoV2V/ZpL_Id/+cmTVWKD</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -256,10 +256,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>QFGnkH73alF_28NN1EYzNQH</eid>
+        <eid>C0ZZu88YBlK_OEscYaIejiD</eid>
         <voice>
           <Rest>
-            <eid>9LWOwglVEZO_cdHZTElBG+</eid>
+            <eid>EZ52acI6dGE_VPpviCYJEsF</eid>
             <linkedTo>LN8Nys1bHwM_HRdrEpvYzOE</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -267,10 +267,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>CYHAhRf1v/J_OBzcFMNjmcM</eid>
+        <eid>tGRrwd3WNLB_+uJ/XvjQD4H</eid>
         <voice>
           <Rest>
-            <eid>LzJ2Pl2w0/P_acdAKxBqqXH</eid>
+            <eid>mqcayfb+6lD_B6QEoGTzxpJ</eid>
             <linkedTo>G8IvjEJwQ0L_iUFiAP/NL4J</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -278,16 +278,16 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>ydz0iGmHYuP_jofqpF32umE</eid>
+        <eid>aCBGBiURLcD_eKEXiZ6eLpJ</eid>
         <startRepeat/>
         <voice>
           <RehearsalMark>
-            <eid>Y2wxZojWXCC_GFchozeTY2D</eid>
+            <eid>BLdChh/FWvM_xhfbsWvmnvK</eid>
             <linkedTo>GPifC7UPkkK_oC2gOcH0JXO</linkedTo>
             <text>B</text>
             </RehearsalMark>
           <Rest>
-            <eid>xir4K3u1xqF_qBOnm/RwwZ</eid>
+            <eid>kos1wWRMT+G_wg6mO9z6dK</eid>
             <linkedTo>2Qa9CTZiJzI_XrrjYXXznmC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -295,10 +295,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>+7E9csSCuQI_lWrvRuPBkFD</eid>
+        <eid>PgUWOqVAeRP_8F5yq1VcPTM</eid>
         <voice>
           <Rest>
-            <eid>Jksh7rc5jhG_PI0tq3gyUHF</eid>
+            <eid>HFDGpuQpn6I_NA/QhTP10l</eid>
             <linkedTo>MMrIg/yZrXP_YfF9jat8vsJ</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -306,10 +306,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>ybyORviiEcB_BrsDIxB77kN</eid>
+        <eid>XVdgtlA0tLD_i320hyQJWjL</eid>
         <voice>
           <Rest>
-            <eid>eQWznUpJsFP_/b2MUhyYNxF</eid>
+            <eid>c2GiELZTptE_PRqtfGBmHGK</eid>
             <linkedTo>YyI5y7qx9xM_0BqraPA01NC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -317,10 +317,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>UacV1OMqn1H_ALq6PF/vbrL</eid>
+        <eid>BuhY3eEFV7E_bZdmt5Ev1uL</eid>
         <voice>
           <Rest>
-            <eid>uxXyCaaKAdP_zM3IoXLITtD</eid>
+            <eid>/gMxJp0RfVE_a59dRSEqNjF</eid>
             <linkedTo>LPPmHrVziDB_hF554apB+S</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -328,10 +328,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>/8IhoAMuDII_eIPNgnPn/ID</eid>
+        <eid>9l9QUfviBHL_6mxrEngyhiN</eid>
         <voice>
           <Rest>
-            <eid>jNdW0KH2nlJ_2LZ1PpAUuMP</eid>
+            <eid>qUKQG/qHV2O_Gp3oChzFRWD</eid>
             <linkedTo>QjHNOilUAZI_ji5PlQESQ2M</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -339,10 +339,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>851X8k92C1M_bWqaDF1dLcL</eid>
+        <eid>zk9wuV2hbUI_Mkk3vGIk1cO</eid>
         <voice>
           <Rest>
-            <eid>aintwRncctH_PjQrbRQkrLG</eid>
+            <eid>ZfWm+OxeZgJ_Er5Bfk1l5zC</eid>
             <linkedTo>9FT6w9DGVCE_jQFqWkeLweF</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -350,10 +350,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>H6UUi+lBRDC_ETHIwQwVZMJ</eid>
+        <eid>EHNr2pGf4WP_gSBfhGqLVND</eid>
         <voice>
           <Rest>
-            <eid>OmgWWdIYGzP_iQWrLSXupOO</eid>
+            <eid>voY2gcmu1UH_nhl4beyN4AH</eid>
             <linkedTo>Toe+lCWXeMO_yUFYTBE+S3K</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -361,11 +361,11 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>2qgnRfIqCbD_t1YXP9dJ/IB</eid>
+        <eid>4yY8Rcyle9E_o2sJQ4iJ2oK</eid>
         <endRepeat>2</endRepeat>
         <voice>
           <Rest>
-            <eid>oYvgmlFByUO_Xjtx9RXNOCD</eid>
+            <eid>5PoFFh0sWqD_1BVlkfx3T0L</eid>
             <linkedTo>DyqBnnE/+kG_3DbG7+wMxHC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -373,16 +373,16 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>myInKrPXPKB_jCir47/xWeE</eid>
+        <eid>XH8lKZhaEKD_gfuvCQz1lQB</eid>
         <startRepeat/>
         <voice>
           <RehearsalMark>
-            <eid>A7OfIXNjvUG_/wUs2u8f0SB</eid>
+            <eid>DDLJBlYp+fN_HDhtKhjcw8F</eid>
             <linkedTo>HbiIOeroadJ_I094vNcuwVE</linkedTo>
             <text>C</text>
             </RehearsalMark>
           <Rest>
-            <eid>I29Suv33TcN_VheWJ596p4D</eid>
+            <eid>dQoukigNCOB_fCNuvuAp8BN</eid>
             <linkedTo>BpRCNAV4RUJ_duPb6CEKf7M</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -390,10 +390,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>xpXoSnIG/yP_oC2bVI1rMbI</eid>
+        <eid>aHPuwOQ0tdL_kRDtcOD0j4E</eid>
         <voice>
           <Rest>
-            <eid>YcLvbVkk3eG_FWt0ZRYMEIL</eid>
+            <eid>lFVqmSMUqd_gcTsYGhjdTF</eid>
             <linkedTo>KRdgjtTr3rH_4rbQp6kcc1D</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -401,10 +401,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>bUWNv1gYLRO_qmA0akN9mVF</eid>
+        <eid>BMHgTsgzTJC_A9tFLd76ZaD</eid>
         <voice>
           <Rest>
-            <eid>FwBWOY0thEJ_2NZEW/4hAoC</eid>
+            <eid>guQA14qmFgD_83WkWSNkVEJ</eid>
             <linkedTo>P/mfkwcxEOP_wkuhpAjMMNO</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -412,10 +412,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>oaFYCgjXHnG_fl3FQInuOcG</eid>
+        <eid>mzzCSjRM+ZN_EsVVuk7ilZN</eid>
         <voice>
           <Rest>
-            <eid>Fy5kI7gHKNP_hyNl2Z6qkXB</eid>
+            <eid>aAcLRT3TpfF_HeFuohQ6teJ</eid>
             <linkedTo>QBixJcDR1KD_g4kk/LqKjlL</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -423,10 +423,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>l/rREpu9C4H_cQsVrytpZDM</eid>
+        <eid>87czlnaCNTB_BdO5jgs1Zb</eid>
         <voice>
           <Rest>
-            <eid>IavQ8i56M9B_pKuTyee4X5E</eid>
+            <eid>5uOv/gjyw9I_iYBsUo1L1UG</eid>
             <linkedTo>NIOEcSGQ+FN_TQlTJ/EpocD</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -434,10 +434,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>kRdb4TlmLbJ_KZnRd1Vs+nL</eid>
+        <eid>OVT/KwENdUO_eqQ07Ito6iM</eid>
         <voice>
           <Rest>
-            <eid>FN+auhJn3rB_SrG4Ttv3Z2L</eid>
+            <eid>wwWZQj12ffH_0m9d42AZHmI</eid>
             <linkedTo>v5+2qLqXSDI_vGueRbtdH3O</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -445,10 +445,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>PmDs9udzxkF_BnThtB38ITB</eid>
+        <eid>QXPUdDoOlJL_UmTEfAAZDiJ</eid>
         <voice>
           <Rest>
-            <eid>03BvLZv5LtN_IQ8mYhCArrJ</eid>
+            <eid>rHrObo2PcMH_22D+d5XHFQE</eid>
             <linkedTo>CRozxp9NoKC_GSBCFtW0NeG</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -456,10 +456,11 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>qgK6yGGfI9_OcfJXpXuAlE</eid>
+        <eid>8ty5jUN0O9O_CrSNhU27Y3I</eid>
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
-            <eid>RRGidl7/s3N_Y2Omc+KKE3E</eid>
+            <eid>IS1h4WgjBjJ_fp71K2vhpqO</eid>
             <linkedTo>PUuwag2QpPL_51GFLRzt/6M</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -467,10 +468,15 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>isozoDgew0K_YfphDWlHEaO</eid>
+        <eid>FTzBCGpIAcJ_JDQ8g5mM2CB</eid>
         <voice>
+          <RehearsalMark>
+            <eid>Q8bUHSzlXRL_JZuUsPc3rbH</eid>
+            <linkedTo>ehkK9dEEcjB_ukWq2Nd/ewP</linkedTo>
+            <text>D</text>
+            </RehearsalMark>
           <Rest>
-            <eid>OK6YwqM4MF_GTpTT4HVPw</eid>
+            <eid>gUemVT1c6aD_slhvy7rHtIJ</eid>
             <linkedTo>cg4FDsl3PbM_Vxa+YvXFo9J</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -478,10 +484,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>vwjJHPAVflE_sk4h41IrpUB</eid>
+        <eid>35Lu0ReE7tJ_5ki4F88vsKC</eid>
         <voice>
           <Rest>
-            <eid>OzYdKypTkqN_2l+vitzVNf</eid>
+            <eid>nYnpkr9TERE_F3q5gb75QKK</eid>
             <linkedTo>wxshQG13YJ_3129EUjYJoF</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -489,10 +495,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>7KVPLfn15CH_t5gvcncf58K</eid>
+        <eid>0U0JIkQ9BxG_C+vt/ZKsHMB</eid>
         <voice>
           <Rest>
-            <eid>m6mnRGauLZO_c9ndYSNcKuL</eid>
+            <eid>ka2pFa6JiiP_D9IVf+neOSM</eid>
             <linkedTo>z9cfJ+lT1/L_W9iXhX6HcqK</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -500,10 +506,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>3hYXFE5O7gE_uyKjqNhEcIM</eid>
+        <eid>FZx7lxpmFtJ_3DkTGfCA4tD</eid>
         <voice>
           <Rest>
-            <eid>3g60sotnZaM_yLNCJ1EVJME</eid>
+            <eid>59XuZDGxsCK_bqxxWbhPJmO</eid>
             <linkedTo>WdZ9EaSlUfO_p6A2toRVSiJ</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -511,10 +517,15 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>XQ5Lnevu/hH_qo/OwmyfSXB</eid>
+        <eid>2o0exQkVgjH_za6OzrW8L3I</eid>
         <voice>
+          <RehearsalMark>
+            <eid>zk2QHGUw3NJ_1VC8ptA8QQ</eid>
+            <linkedTo>THcg7Uvn4wC_hiOOU1s34+L</linkedTo>
+            <text>סולו ראשון</text>
+            </RehearsalMark>
           <Rest>
-            <eid>RSJRI0/LyKJ_McJ/DLU+4bP</eid>
+            <eid>9YmO1SDNQ5E_64oXvSp0arC</eid>
             <linkedTo>mC31MYK9TNG_99RFywlgxwI</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -522,10 +533,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>oigH8YxU8xE_b0pCBwSEoJO</eid>
+        <eid>R55Gp7ZhxsN_siEMDWrraKL</eid>
         <voice>
           <Rest>
-            <eid>9nHafHPrp1E_s1Pw73MZWMC</eid>
+            <eid>UMAEw3TVPzH_3Q4LpNPR8UF</eid>
             <linkedTo>Wr6SChZutjG_QhuI7vWXTnM</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -533,10 +544,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>3mPR5GQk3CE_idrQXSWUD1O</eid>
+        <eid>drc2tdEv7tD_JAJz/cyyATC</eid>
         <voice>
           <Rest>
-            <eid>BlZcm3StJCI_vmAJ1PjQugN</eid>
+            <eid>MUd5K4kr5VH_8XS0s6lCF/E</eid>
             <linkedTo>T/tkjMbHF6N_9qqdpfN0PYG</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -544,10 +555,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>hTVL2CmHt/K_3odtm+Ic4jB</eid>
+        <eid>0g3n575pB4F_KkchAEBQCEK</eid>
         <voice>
           <Rest>
-            <eid>gg02M6plOsO_OvmSAE8lsFI</eid>
+            <eid>FG6IiPzqgUJ_YneFMbSAi2H</eid>
             <linkedTo>JpDT9zU4jcF_QMVVwMtJExD</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -555,10 +566,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>LlDvrEMd2RD_1LuKInEYLwO</eid>
+        <eid>KfnAeHGpERH_E7cuAJLz7aK</eid>
         <voice>
           <Rest>
-            <eid>gB4gOMMmGiI_GGY8gL7KYHG</eid>
+            <eid>XHH8A8XS/1I_/ZNJTWayeyH</eid>
             <linkedTo>O4duQXjvrSF_XqajEHouQzN</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -566,10 +577,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>8XcL8mq9+TN_BcrOu/H2vrD</eid>
+        <eid>gciNeHn1yJM_0SovKYr1wwK</eid>
         <voice>
           <Rest>
-            <eid>Ed2ULkDhHiI_Fe6MPB9vfcB</eid>
+            <eid>vhd5UD3+KDC_vX9xefVJUTF</eid>
             <linkedTo>mo5xelDwaON_DI0pOwwfJ8C</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -577,10 +588,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>VOUN4lYHQBG_2x3vg62s1XN</eid>
+        <eid>HGwZ55Qk7lF_UxrJXu1U2bO</eid>
         <voice>
           <Rest>
-            <eid>iiJ3fcl83BD_dnJ/c2bJFfI</eid>
+            <eid>GoN6EDfNlPO_a2RZRpzaonP</eid>
             <linkedTo>ojIx8BLtnGI_FbCPUTERAaF</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -588,10 +599,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>HryNNEHNeqO_6eHy6+SrrjD</eid>
+        <eid>xJcut4dLOhH_8NjZZRtM6LM</eid>
         <voice>
           <Rest>
-            <eid>3Lnw44LXux_UhFlul6/fvO</eid>
+            <eid>z/yPTTiz/q_I6/4hrOFAxD</eid>
             <linkedTo>sfU90YIdQWD_EcNTd0NknFM</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -599,10 +610,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>iuZOCFrwrrC_ZKi7sDQI1T</eid>
+        <eid>JW/e8QJj5HK_WCGDCChAgUH</eid>
         <voice>
           <Rest>
-            <eid>iMsZRBuCWjK_kmX95gkeDeF</eid>
+            <eid>QN6mUTS0VUI_P2YdM+v3rLB</eid>
             <linkedTo>YscILJcTFBN_eFrwG34pvSM</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -610,10 +621,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>EIQ9hLBbLFL_VM/sxdBFufL</eid>
+        <eid>HEI4s2FijyB_ConsnIBweGN</eid>
         <voice>
           <Rest>
-            <eid>t6NlsNYCf2H_q8v2TqExQb</eid>
+            <eid>DKMboNCvAzJ_361Z6I2K3SK</eid>
             <linkedTo>2UsWBV9QACL_eCAlEDR9JxI</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -621,10 +632,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>RRlhjajlSGD_XvWqUeWJFW</eid>
+        <eid>JsbQ4DPNm1P_hNIeKtjEtbG</eid>
         <voice>
           <Rest>
-            <eid>0e3h73QxMFP_ZfHNt/fvR8M</eid>
+            <eid>1eAS1G01MtB_rgi6TAZEuVO</eid>
             <linkedTo>Y2tXHAVa8TN_qTEOfBxei/N</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -632,10 +643,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>fbo4jmwiL2P_pBvUnATLbaG</eid>
+        <eid>JZG8BHMwqYF_HjZY89Fp8RL</eid>
         <voice>
           <Rest>
-            <eid>dgmoVjvk1aF_6LWYzIg+fUF</eid>
+            <eid>5vvLrJq3r0F_wJc7zIzAjYE</eid>
             <linkedTo>PHSTnIT/g2I_de+2K7ILMiC</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -643,10 +654,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>WAuuWPl68qE_8RTE3sARYdB</eid>
+        <eid>M3rZSEr98II_v0R40ioCWUJ</eid>
         <voice>
           <Rest>
-            <eid>0CIhvTRcYOP_kHIFlV9b+4E</eid>
+            <eid>T9OWSiQMl3L_8WQfreEQcg</eid>
             <linkedTo>u/cqcpvIusG_bA66/SThzUD</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -654,10 +665,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>ROHibbiF7MJ_kJlKZXyVyxB</eid>
+        <eid>17MIrtphcPO_ird1Y9NDx3L</eid>
         <voice>
           <Rest>
-            <eid>XR4Ex2QXfPG_movUzyWiAKH</eid>
+            <eid>qWkq4Q/occE_ylWN6BLvfUP</eid>
             <linkedTo>vggr7qnpw2D_8WHlBXBc6vL</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -665,10 +676,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>g96YYOZTyWM_tCV2df/9vMB</eid>
+        <eid>o/Hkl2YtzOE_TNNwKYq7RJI</eid>
         <voice>
           <Rest>
-            <eid>6X541peadQP_2eXTQ8ZORWK</eid>
+            <eid>SLsX/Hy2C5B_be6MIg6YFpH</eid>
             <linkedTo>kEDptbA/sUD_hwM5AEOUYxN</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -676,10 +687,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>utb8xy0QcHH_0YMKTDtXo5H</eid>
+        <eid>B0x8zdo9JmC_mADsbgCGt0M</eid>
         <voice>
           <Rest>
-            <eid>oaz3ThewAqG_SATYCW7vsLP</eid>
+            <eid>SanNoc7dM6C_W32Ekz+J/3I</eid>
             <linkedTo>zoTbQz3cm4B_4QEou+9ED0B</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -687,21 +698,31 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>ZfG74lP6O+J_+2m+YiiCf3K</eid>
+        <eid>oZrMA2TGZWP_Vh0KJ+1E96L</eid>
         <voice>
           <Rest>
-            <eid>pQRKxMbsbrE_nP7Cfn9ud7E</eid>
+            <eid>/UbzoQSp+EF_P+5y7QSISf</eid>
             <linkedTo>QGu/Zs1N2cE_kzV2TMc5Qm</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>0nvo3z6je4C_t8WtheYN6eF</eid>
+            <linkedTo>cfjNsNwxUIK_3kte6unGWMD</linkedTo>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
-        <eid>rpjN5gjtmIL_RjE0awXvRQC</eid>
+        <eid>N1uqljDs54E_wfhCtRlNCrP</eid>
         <voice>
+          <RehearsalMark>
+            <eid>lst47h2kGVB_OPK8O08d2OI</eid>
+            <linkedTo>z9FhxxIq7zE_FR7V2+HPIDD</linkedTo>
+            <text>E</text>
+            </RehearsalMark>
           <Rest>
-            <eid>SA604DQ3c/B_svkrlAh+WJH</eid>
+            <eid>sjrN2vazanG_vr5q17a2oFO</eid>
             <linkedTo>ybvSpO5caZB_KhAahN5LPCG</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -709,10 +730,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>nOvshuZZ+OM_BWlwZ7Xi68D</eid>
+        <eid>QrKyzfqH8UE_YVcn6jzBxvH</eid>
         <voice>
           <Rest>
-            <eid>L2VfSioy/nN_mnk4q8n3uLD</eid>
+            <eid>YTjt4158fMP_1ho5U7kpZ+K</eid>
             <linkedTo>1NSAvcoxvbN_m/Z7ca7E8YG</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -720,10 +741,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>3E8xECvSrAD_ZtvL4JlayjN</eid>
+        <eid>xVpruyC6uXB_3s0v7thkWvB</eid>
         <voice>
           <Rest>
-            <eid>4dh3hG25SbH_Ar4/7xpE7qH</eid>
+            <eid>BMl+I6MMq3H_Y6Y3zMW4RJL</eid>
             <linkedTo>tsezLHThJiG_2QqrkVUJZJB</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -731,10 +752,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>uuoB5wEns9G_4wG97vVeLSN</eid>
+        <eid>p26cj1k5zBB_JLfOTBIyq9</eid>
         <voice>
           <Rest>
-            <eid>/DQSfFmaQ1D_SuiOMylK4PJ</eid>
+            <eid>FNwdFWHBOvB_XojtO2ULTDK</eid>
             <linkedTo>3suHphFtGGP_lfzuplvh1gJ</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -742,10 +763,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>xqYSmtmKeYE_BMFZccN2O2I</eid>
+        <eid>0MFxN7ipSUC_pizMEnyou9C</eid>
         <voice>
           <Rest>
-            <eid>x5ceUicIxHF_LCNuHgigvmG</eid>
+            <eid>26quxOW2k1P_EfzsrHlwWmE</eid>
             <linkedTo>w9iEsr/YVAI_kSIK3k0PNrF</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -753,10 +774,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>6QU4psMyj1_EBLHwcA5IfK</eid>
+        <eid>QuJLqsOCQqL_JIxT/HfXdtO</eid>
         <voice>
           <Rest>
-            <eid>3vgw7HM/TaF_prEq9Uy4CN</eid>
+            <eid>wfhZrl7d1I_qJLzp8gcSwI</eid>
             <linkedTo>5Vpnd+noQ1I_4C6w0KgXKeJ</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -764,10 +785,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>5atngwxb07O_N2yawtMeqDF</eid>
+        <eid>0UFXuLm9WrK_/zpiMTjwV/G</eid>
         <voice>
           <Rest>
-            <eid>ZMopHARba5H_XjO2cAX8cnN</eid>
+            <eid>mtm5gtKqEkL_hqqC5BCQWxG</eid>
             <linkedTo>o1CbVqWXgID_7E71oA38U6L</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -775,21 +796,31 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>fkzKDwOHt0G_e/F2q4huf6</eid>
+        <eid>J6nIDtYdBZF_JilpYhF3EqB</eid>
         <voice>
           <Rest>
-            <eid>NISrv2xGaWJ_g7ZWQbQDbRE</eid>
+            <eid>9uwXQsdcVcC_5kIR9DBzAHC</eid>
             <linkedTo>85f9OnAZwHC_lnWwGlfdNZN</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>dW6DrhynvTC_VAx8tsPVTPB</eid>
+            <linkedTo>VDs1AHSL4lO_Xs1/F2VubQN</linkedTo>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
-        <eid>x8zsG2kno_Y+6UtemRs8D</eid>
+        <eid>Tam+WsTc8sN_wda/EYXiU+M</eid>
         <voice>
+          <RehearsalMark>
+            <eid>TEjyT5mQA0D_d6fmRoidePP</eid>
+            <linkedTo>5JA6STB78XG_cmno5uOn+zN</linkedTo>
+            <text>F</text>
+            </RehearsalMark>
           <Rest>
-            <eid>FcHhUeA5XoM_irgrHlej/xF</eid>
+            <eid>SuixSJoaYgO_w7Z7EOOLn2K</eid>
             <linkedTo>9Z413jkIMbE_Uxxq/XeGyJE</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -797,10 +828,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>JsPtPlhYEsC_OhwuwWWnNIG</eid>
+        <eid>RofuFHg+BYI_wZrO3ZsSrKH</eid>
         <voice>
           <Rest>
-            <eid>Q7KCo6xhAlP_EulIdrHp6lI</eid>
+            <eid>uoJ0B8KWX+K_EAR1c/R3Rk</eid>
             <linkedTo>YOd3p8tiZfN_kdg8HKw0geL</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -808,10 +839,10 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>yQ8/Rt94gVG_LcOs7PrXEyD</eid>
+        <eid>psddBEPN3sC_5z7vHrfv6KJ</eid>
         <voice>
           <Rest>
-            <eid>+to8oE7vv4P_KftW9dZ3hIB</eid>
+            <eid>0Ibpyr046FM_tChQ5JcDrGJ</eid>
             <linkedTo>fDzMBNCdQEJ_Uk0o8ZcPCFM</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
@@ -819,14 +850,121 @@
           </voice>
         </Measure>
       <Measure>
-        <eid>cWh9BeubB6F_AKxZ6SlHVTB</eid>
+        <eid>yim4oSqAmjP_/+rr5GfcG7M</eid>
         <voice>
           <Rest>
-            <eid>ZyouoZysDrB_RSFt/I9AaDO</eid>
+            <eid>Bm/9ViRtakJ_9l7+Pby+8FO</eid>
             <linkedTo>nX4WJZYT4tM_AslB25rIJgP</linkedTo>
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>UMaXRUcK72_lCwzfPLllgN</eid>
+        <voice>
+          <Rest>
+            <eid>ONZzrpqQTQL_HW3Lqf+p24N</eid>
+            <linkedTo>n4QXBxzvBDB_IMvW0v1r8uB</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>gOpIxoN9qVI_rLXeevw0XuM</eid>
+        <voice>
+          <Rest>
+            <eid>PM0Vmjmd3nC_53BeMD7v18N</eid>
+            <linkedTo>41gU8hN+G6E_l7b1NuMF6JL</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>so5xvQJEgpG_rCGAc90oI+C</eid>
+        <voice>
+          <Rest>
+            <eid>9er1+0OxOhI_YrsIUYz2gmC</eid>
+            <linkedTo>MPUaAW19QuN_f3hAtAFfJZ</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>2wX+2vvbagC_VnL5NhDMamC</eid>
+        <voice>
+          <Rest>
+            <eid>98iQ5yA0m5J_szEhsHYHonB</eid>
+            <linkedTo>PsfGcFtrhAM_Gm4VWG3aJJI</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>gl0+Ho2SRQ_JO0/JZORLbL</eid>
+        <voice>
+          <Rest>
+            <eid>ohgb4l5mukM_4xp278sUbvH</eid>
+            <linkedTo>V/7qCYzMhnL_Lt0PMWxcXVE</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>xczR0jxSH9G_XT3q10oGvUB</eid>
+        <Jump>
+          <eid>yesATSnRqrP_NPR3Bly4XpI</eid>
+          <linkedTo>xqeabx5WvT_LiRqtNnGS5F</linkedTo>
+          <style>repeat_right</style>
+          <text>D.C.</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>end</playUntil>
+          <continueAt></continueAt>
+          </Jump>
+        <voice>
+          <Rest>
+            <eid>cP+Vy0GPcrK_BhAifICwJTL</eid>
+            <linkedTo>hWqkQfxgxH_/lQ8W4AqVpF</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>EXAMSWgb4s_+HlwTYBc+kE</eid>
+            <linkedTo>lM9lW5jasyP_+4XrSJp0NpK</linkedTo>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>SkvxX6LlusK_degaH7yQSPP</eid>
+        <voice>
+          <Rest>
+            <eid>3or1a7puVFH_xRkmiqANBWC</eid>
+            <linkedTo>BZk9jJ/oWtL_TV19rmCLc1L</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>/CNJB4upRBL_HB0t96JYVLE</eid>
+        <voice>
+          <Rest>
+            <eid>R1tRihCWsfM_qH54ETyyGNG</eid>
+            <linkedTo>GbxDg07vDiF_RJHmiIDGY7B</linkedTo>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <eid>uIx50l3eE2B_97wxRHG/fSF</eid>
+            <linkedTo>EsWikxIum0K_h2/XqbJ/lQC</linkedTo>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
