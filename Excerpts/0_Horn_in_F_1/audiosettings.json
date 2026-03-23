@@ -41,8 +41,8 @@
             }
         },
         {
-            "instrumentId": "baritone-horn",
-            "partId": "9",
+            "instrumentId": "baritone",
+            "partId": "10",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

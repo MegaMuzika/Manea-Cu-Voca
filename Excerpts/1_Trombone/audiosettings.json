@@ -1,0 +1,12 @@
+{
+    "tracks": [
+        {
+            "instrumentId": "baritone",
+            "partId": "10",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        }
+    ]
+}

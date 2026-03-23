@@ -28,7 +28,7 @@
             "instrumentId": "horn",
             "partId": "6",
             "soloMuteState": {
-                "mute": false,
+                "mute": true,
                 "solo": false
             }
         },
@@ -36,13 +36,13 @@
             "instrumentId": "horn",
             "partId": "7",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
         {
-            "instrumentId": "baritone-horn",
-            "partId": "9",
+            "instrumentId": "baritone",
+            "partId": "10",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
