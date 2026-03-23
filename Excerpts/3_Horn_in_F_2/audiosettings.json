@@ -9,6 +9,14 @@
             }
         },
         {
+            "instrumentId": "horn",
+            "partId": "6",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "bass-trombone",
             "partId": "8",
             "soloMuteState": {
@@ -26,14 +34,6 @@
         },
         {
             "instrumentId": "horn",
-            "partId": "6",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "horn",
             "partId": "7",
             "soloMuteState": {
                 "mute": true,
@@ -41,8 +41,8 @@
             }
         },
         {
-            "instrumentId": "baritone",
-            "partId": "10",
+            "instrumentId": "baritone-horn-central-europe-treble",
+            "partId": "12",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

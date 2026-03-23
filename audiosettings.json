@@ -62,40 +62,6 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "baritone",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "10"
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
             "instrumentId": "metronome",
             "out": {
                 "balance": 0,
@@ -104,44 +70,6 @@
                 "volumeDb": 0
             },
             "partId": "999",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "horn",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0.699999988079071
-            },
-            "partId": "6",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -253,6 +181,44 @@
                 "balance": 0,
                 "fxChain": {
                 },
+                "volumeDb": 0.699999988079071
+            },
+            "partId": "6",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "horn",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
                 "volumeDb": 0
             },
             "partId": "5",
@@ -298,6 +264,40 @@
                 "mute": false,
                 "solo": false
             }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "baritone-horn-central-europe-treble",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "12"
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
     "tracks": [
         {
-            "instrumentId": "baritone",
-            "partId": "10",
+            "instrumentId": "baritone-horn-central-europe-treble",
+            "partId": "12",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
