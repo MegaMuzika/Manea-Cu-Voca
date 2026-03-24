@@ -90,7 +90,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "bass-trombone",
+            "instrumentId": "horn",
             "out": {
                 "auxSends": [
                     {
@@ -105,9 +105,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 0.699999988079071
             },
-            "partId": "8",
+            "partId": "6",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -166,7 +166,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "horn",
+            "instrumentId": "bass-trombone",
             "out": {
                 "auxSends": [
                     {
@@ -181,9 +181,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0.699999988079071
+                "volumeDb": 0
             },
-            "partId": "6",
+            "partId": "8",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -297,7 +297,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "12"
+            "partId": "12",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         }
     ]
 }
