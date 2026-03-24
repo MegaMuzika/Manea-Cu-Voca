@@ -2324,11 +2324,32 @@
         <eid>vfEOKQExUTK_oSaG3wfzn4I</eid>
         <voice>
           <Rest>
-            <eid>YDPK5P+c+5N_Uk20ZJaoF+E</eid>
-            <linkedTo>s5ckLONSbyD_D+0HytOlcnP</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
+            <eid>5jvNzP94PBK_Tl9fOU1+tuJ</eid>
+            <linkedTo>xV2vXApxB+K_FnammmKxJQP</linkedTo>
+            <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <eid>SXHadhTEkvC_WzKh33QJrtD</eid>
+            <linkedTo>tyOvTG1D9nK_+BQRB1LxdeP</linkedTo>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <eid>jS8E+HUqznI_yvv5zvhCicE</eid>
+            <linkedTo>nz3ANklphL_3mLNyej6CzJ</linkedTo>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <eid>+8q5vqCAVQ_UyK4f8Uy+AC</eid>
+            <linkedTo>LVCKv4bRBtG_JTyXBf5aIe</linkedTo>
+            <durationType>16th</durationType>
+            <Note>
+              <eid>LrZh4+Wl1PD_vPVt/sQvz4C</eid>
+              <linkedTo>B5Jhfx1ANJE_/AXDSMTCCoF</linkedTo>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
+              </Note>
+            </Chord>
           <BarLine>
             <subtype>double</subtype>
             <span>1</span>
