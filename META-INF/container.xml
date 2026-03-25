@@ -11,10 +11,10 @@
     <rootfile full-path="Excerpts/2_Horn_in_F_3/2_Horn_in_F_3.mscx"/>
     <rootfile full-path="Excerpts/3_Baritone_Horn/3_Baritone_Horn.mss"/>
     <rootfile full-path="Excerpts/3_Baritone_Horn/3_Baritone_Horn.mscx"/>
-    <rootfile full-path="Excerpts/4_Bass_Trombone/4_Bass_Trombone.mss"/>
-    <rootfile full-path="Excerpts/4_Bass_Trombone/4_Bass_Trombone.mscx"/>
-    <rootfile full-path="Excerpts/5_Trombone/5_Trombone.mss"/>
-    <rootfile full-path="Excerpts/5_Trombone/5_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/4_Trombone/4_Trombone.mss"/>
+    <rootfile full-path="Excerpts/4_Trombone/4_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/5_Bass_Trombone/5_Bass_Trombone.mss"/>
+    <rootfile full-path="Excerpts/5_Bass_Trombone/5_Bass_Trombone.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
@@ -26,9 +26,9 @@
     <rootfile full-path="Excerpts/2_Horn_in_F_3/audiosettings.json"/>
     <rootfile full-path="Excerpts/3_Baritone_Horn/viewsettings.json"/>
     <rootfile full-path="Excerpts/3_Baritone_Horn/audiosettings.json"/>
-    <rootfile full-path="Excerpts/4_Bass_Trombone/viewsettings.json"/>
-    <rootfile full-path="Excerpts/4_Bass_Trombone/audiosettings.json"/>
-    <rootfile full-path="Excerpts/5_Trombone/viewsettings.json"/>
-    <rootfile full-path="Excerpts/5_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_Bass_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_Bass_Trombone/audiosettings.json"/>
     </rootfiles>
   </container>
