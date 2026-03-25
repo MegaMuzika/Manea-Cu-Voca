@@ -2398,14 +2398,10 @@
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <eid>iNwLmOy7dfH_tqDaYIe5uh</eid>
-            <linkedTo>gZRFC735Be_asEer/L1FuG</linkedTo>
+            <eid>wORYVqaVhJD_OPZBOGXVxAJ</eid>
+            <linkedTo>fsL0b3qdhfK_tv8s81Tx2NE</linkedTo>
+            <dots>1</dots>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <eid>8BKwQeuBJeC_EbNGJxYMkUD</eid>
-            <linkedTo>vlOc50+JRnM_KjLd6Lo3Y7O</linkedTo>
-            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <eid>9f+viKhobQ_R+YVC8GUdZG</eid>

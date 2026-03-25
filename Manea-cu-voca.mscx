@@ -10783,12 +10783,9 @@
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <eid>gZRFC735Be_asEer/L1FuG</eid>
+            <eid>fsL0b3qdhfK_tv8s81Tx2NE</eid>
+            <dots>1</dots>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <eid>vlOc50+JRnM_KjLd6Lo3Y7O</eid>
-            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <eid>oBDMq3dVwmL_pp2VoG3UyYB</eid>
@@ -14396,10 +14393,23 @@
       <Measure>
         <voice>
           <Rest>
-            <eid>nG3bT6/oFwP_9tKPyBgpU/N</eid>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
+            <eid>WkCdvnkJZpI_PZV7dwWyv6K</eid>
+            <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <eid>9GKk8Ss18YG_wy7m9arnylC</eid>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <eid>GeWdG9JFNwI_Mo1zyA8QR6P</eid>
+            <durationType>16th</durationType>
+            <Note>
+              <eid>juBwTUCQ3RD_qE+wHO4AHQO</eid>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
           <BarLine>
             <subtype>double</subtype>
             <eid>9h3bZ+huUjD_x/MfgtRdZWO</eid>
@@ -14593,12 +14603,8 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>fnRVHHwCkKP_+yq8y1kAc9C</eid>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>wE8mnPvVSzN_WmtLivlcwFF</eid>
-                </Accidental>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -14891,12 +14897,8 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>47rj6bbXCfJ_+RcRnx9U61J</eid>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>8HOsVsKWmMO_aTQePFWB6QN</eid>
-                </Accidental>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           <Chord>
