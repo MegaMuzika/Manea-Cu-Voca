@@ -3,28 +3,8 @@
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
     <rootfile full-path="Manea-cu-voca.mscx"/>
-    <rootfile full-path="Excerpts/0_Original/0_Original.mss"/>
-    <rootfile full-path="Excerpts/0_Original/0_Original.mscx"/>
-    <rootfile full-path="Excerpts/1_New/1_New.mss"/>
-    <rootfile full-path="Excerpts/1_New/1_New.mscx"/>
-    <rootfile full-path="Excerpts/2_Baritone_Horn/2_Baritone_Horn.mss"/>
-    <rootfile full-path="Excerpts/2_Baritone_Horn/2_Baritone_Horn.mscx"/>
-    <rootfile full-path="Excerpts/3_Bass_Trombone/3_Bass_Trombone.mss"/>
-    <rootfile full-path="Excerpts/3_Bass_Trombone/3_Bass_Trombone.mscx"/>
-    <rootfile full-path="Excerpts/4_Baritone_Horn_2/4_Baritone_Horn_2.mss"/>
-    <rootfile full-path="Excerpts/4_Baritone_Horn_2/4_Baritone_Horn_2.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Original/viewsettings.json"/>
-    <rootfile full-path="Excerpts/0_Original/audiosettings.json"/>
-    <rootfile full-path="Excerpts/1_New/viewsettings.json"/>
-    <rootfile full-path="Excerpts/1_New/audiosettings.json"/>
-    <rootfile full-path="Excerpts/2_Baritone_Horn/viewsettings.json"/>
-    <rootfile full-path="Excerpts/2_Baritone_Horn/audiosettings.json"/>
-    <rootfile full-path="Excerpts/3_Bass_Trombone/viewsettings.json"/>
-    <rootfile full-path="Excerpts/3_Bass_Trombone/audiosettings.json"/>
-    <rootfile full-path="Excerpts/4_Baritone_Horn_2/viewsettings.json"/>
-    <rootfile full-path="Excerpts/4_Baritone_Horn_2/audiosettings.json"/>
     </rootfiles>
   </container>

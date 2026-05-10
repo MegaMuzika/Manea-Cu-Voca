@@ -342,7 +342,6 @@
         <maxPitchA>71</maxPitchA>
         <instrumentId>brass.trombone</instrumentId>
         <clef>F</clef>
-        <glissandoStyle>portamento</glissandoStyle>
         <Channel name="open">
           <program value="57"/>
           <synti>Fluid</synti>
