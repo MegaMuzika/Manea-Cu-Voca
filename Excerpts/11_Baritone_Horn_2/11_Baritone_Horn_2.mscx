@@ -18,7 +18,6 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
     <metaTag name="partName">Baritone Horn 2</metaTag>
     <Part id="17">
       <Staff>
@@ -4536,106 +4535,6 @@
             <eid>wUu5KH/vstF_Y6hZAJUrPkG</eid>
             <linkedTo>7IPvmnoFcDE_VBA5nDDDDIF</linkedTo>
             </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>QUMoZfMnKj_6pODnd0wNiK</eid>
-        <voice>
-          <Rest>
-            <eid>CHXvU6GG6SN_cuin05/chgP</eid>
-            <linkedTo>TsjkPCccKlB_st9FNFhEvXJ</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="16/4">
-        <multiMeasureRest>8</multiMeasureRest>
-        <eid>Solqc1/6meF_Cy0gnhcskqB</eid>
-        <voice>
-          <Rest>
-            <eid>sGajFSEgqTL_LYtbc+CrOsP</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>v0EZz+fapRP_FvNy77/ovME</eid>
-        <voice>
-          <Rest>
-            <eid>EahzLf6mYME_l6jeZr4NaLB</eid>
-            <linkedTo>Zukb/8WbaLJ_oqbPxr5Ub8G</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>7TL8NxrdsrD_isn2EZDQ2mO</eid>
-        <voice>
-          <Rest>
-            <eid>PHDy5E4+GMB_qQ74kIoFF/K</eid>
-            <linkedTo>3t4ihBQVJ5O_erTO2EfRTRN</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>SvmI9gEEisC_eZBwgK3Fy+I</eid>
-        <voice>
-          <Rest>
-            <eid>Zd+M/cEHQ3C_FYdYIryTBeD</eid>
-            <linkedTo>2AtxmzWR9lK_xHiPq5QGbiL</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>7DfMTXU+ksH_NCAO/bBR+2J</eid>
-        <voice>
-          <Rest>
-            <eid>So6lGbygu4D_3J3gQeS2onD</eid>
-            <linkedTo>0jyQps0l2/N_0KB76xfd8bI</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>2t5N/PjHXkM_gA23hlPNyKG</eid>
-        <voice>
-          <Rest>
-            <eid>q0kL6ZJGxFG_JAlb9uONJmO</eid>
-            <linkedTo>YW30yvnQsPJ_C/bY5ig1SYD</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>5xMT/qPhfDI_5YqtguTtnSK</eid>
-        <voice>
-          <Rest>
-            <eid>YovCHQTuGFP_ovwzqFb5syI</eid>
-            <linkedTo>L6xs0RIfsM_kO33CAYw/9M</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>frd8AL+mHaH_okLtQIjgwk</eid>
-        <voice>
-          <Rest>
-            <eid>/tJtWRw2bEF_iFgXtl4nhuK</eid>
-            <linkedTo>4epZHh/j+aP_q81pEzM2m0F</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
           </voice>
         </Measure>
       </Staff>

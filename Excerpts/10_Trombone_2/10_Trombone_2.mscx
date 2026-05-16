@@ -1524,8 +1524,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1548,8 +1548,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1770,8 +1770,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1794,8 +1794,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3534,106 +3534,6 @@
             <eid>jPthYN/NabI_5V7Bzbu1dhB</eid>
             <linkedTo>GhgmFUPoTzN_C4d+aLwjPhN</linkedTo>
             </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>XvDeZ9TK+PB_z6GII0RbuhE</eid>
-        <voice>
-          <Rest>
-            <eid>NpENISxmvAN_+rZftjkJImL</eid>
-            <linkedTo>WT4hMhr5pGJ_cH8KhfX3pdN</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="16/4">
-        <multiMeasureRest>8</multiMeasureRest>
-        <eid>SXdWlVfZepK_V9UTpCfLw/K</eid>
-        <voice>
-          <Rest>
-            <eid>djtAsP9YS4E_G6kYSuYT2UI</eid>
-            <placement>above</placement>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>CFhk148A0rH_sozD1Vw28DB</eid>
-        <voice>
-          <Rest>
-            <eid>yX24f10Z9kE_KHQrdlYC0g</eid>
-            <linkedTo>moDvmhxmiyP_snybD+3EvOE</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>TgIZafg99CG_AQ4Kb5/Wl9I</eid>
-        <voice>
-          <Rest>
-            <eid>pRDHc01aXmM_ch21bp9GG1G</eid>
-            <linkedTo>MET/ib0VPZK_A6BXCce8bAG</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>9QiirusbyBK_1jKb3+ULrRO</eid>
-        <voice>
-          <Rest>
-            <eid>ftvV5q7Ji7K_ttMfmtV0MdL</eid>
-            <linkedTo>rnEjS3NyjXJ_JVelhU4BI6O</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>g17pQrDsuEI_YI12szzVGiP</eid>
-        <voice>
-          <Rest>
-            <eid>Ifmmdx7SslE_deGonjdcrIN</eid>
-            <linkedTo>zxRSHdwU5gB_xqznXdlPk/B</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>BbUq1VpN0IP_/uWSswbD0hD</eid>
-        <voice>
-          <Rest>
-            <eid>Z2v2fLKeqyG_a+pFJ0qorGN</eid>
-            <linkedTo>K6dzxl17H2O_cZV0Zz+M2pJ</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>mlGcc2QcaMH_VdJP7uEtoOF</eid>
-        <voice>
-          <Rest>
-            <eid>wux67QdoBZC_J6LyaFPv/TF</eid>
-            <linkedTo>I6DC/QDI2KI_ZIw3JVSD8JH</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <eid>R6RaxWR3bGK_lZhf166P1OF</eid>
-        <voice>
-          <Rest>
-            <eid>+l9RvYoo6KP_dB/PC9WZnsI</eid>
-            <linkedTo>lhgu45xwacO_RNAE0vBwGlP</linkedTo>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
