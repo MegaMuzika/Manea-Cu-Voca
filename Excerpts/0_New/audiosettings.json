@@ -44,7 +44,7 @@
             "instrumentId": "horn",
             "partId": "7",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
