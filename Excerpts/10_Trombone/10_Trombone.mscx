@@ -4,7 +4,7 @@
   <programRevision>653f38d</programRevision>
   <Score>
     <eid>MPYRuILEEtN_lwIVTqZ2R6L</eid>
-    <name>Trombone 2</name>
+    <name>Trombone</name>
     <initialPartId>16</initialPartId>
     <Division>480</Division>
     <Style>
@@ -18,8 +18,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
-    <metaTag name="partName">Trombone 2</metaTag>
+    <metaTag name="partName">Trombone</metaTag>
     <Part id="16">
       <Staff>
         <eid>GMNMtTc+lAB_pTmEoB1IH+L</eid>
@@ -76,7 +75,7 @@
         <Text>
           <eid>qCrm0T11F4I_vDdP1P3Dn9E</eid>
           <style>instrument_excerpt</style>
-          <text>Trombone 2</text>
+          <text>Trombone</text>
           </Text>
         </VBox>
       <Measure>

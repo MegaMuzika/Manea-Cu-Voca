@@ -4,7 +4,7 @@
   <programRevision>653f38d</programRevision>
   <Score>
     <eid>a1fjVbfeyRD_2IA04PE83jI</eid>
-    <name>Horn in F 2</name>
+    <name>Horn in F 2 ישן</name>
     <initialPartId>6</initialPartId>
     <Division>480</Division>
     <Style>
@@ -18,8 +18,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
-    <metaTag name="partName">Horn in F 2</metaTag>
+    <metaTag name="partName">Horn in F 2 ישן</metaTag>
     <Part id="6">
       <Staff>
         <eid>8B1VcY6wppE_OzyphHZYoD</eid>
@@ -76,7 +75,7 @@
         <Text>
           <eid>Ja2OO2Um76C_Xu52Opr2jEM</eid>
           <style>instrument_excerpt</style>
-          <text>Horn in F 2</text>
+          <text>Horn in F 2 ישן</text>
           </Text>
         </VBox>
       <Measure>

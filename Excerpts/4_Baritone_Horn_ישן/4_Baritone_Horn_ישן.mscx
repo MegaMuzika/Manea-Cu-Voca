@@ -4,7 +4,7 @@
   <programRevision>653f38d</programRevision>
   <Score>
     <eid>haR6N7MKv4N_1Pir0OfHD5K</eid>
-    <name>Baritone Horn</name>
+    <name>Baritone Horn ישן</name>
     <initialPartId>12</initialPartId>
     <Division>480</Division>
     <Style>
@@ -18,8 +18,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
-    <metaTag name="partName">Baritone Horn</metaTag>
+    <metaTag name="partName">Baritone Horn ישן</metaTag>
     <Part id="12">
       <Staff>
         <eid>UbJ27RTYc7L_PBlUrjIEdhN</eid>
@@ -80,7 +79,7 @@
         <Text>
           <eid>0AtrFUSGX8F_+q4wVvme2pO</eid>
           <style>instrument_excerpt</style>
-          <text>Baritone Horn</text>
+          <text>Baritone Horn ישן</text>
           </Text>
         </VBox>
       <Measure>

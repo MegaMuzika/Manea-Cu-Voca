@@ -4,7 +4,7 @@
   <programRevision>653f38d</programRevision>
   <Score>
     <eid>e9yUjGnFEHO_HWEi+mzqHVF</eid>
-    <name>Trombone</name>
+    <name>Trombone ישן</name>
     <initialPartId>4</initialPartId>
     <Division>480</Division>
     <Style>
@@ -18,8 +18,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
-    <metaTag name="partName">Trombone</metaTag>
+    <metaTag name="partName">Trombone ישן</metaTag>
     <Part id="4">
       <Staff>
         <eid>F/dNwRztx4M_csrpuwT6ciF</eid>
@@ -76,7 +75,7 @@
         <Text>
           <eid>4cFGOdiCPgH_3017TD+vE6L</eid>
           <style>instrument_excerpt</style>
-          <text>Trombone</text>
+          <text>Trombone ישן</text>
           </Text>
         </VBox>
       <Measure>

@@ -116,8 +116,8 @@
         </Staff>
       <trackName>Trombone 2</trackName>
       <Instrument id="trombone">
-        <longName>Trombone 2</longName>
-        <shortName>Tbn. 2</shortName>
+        <longName>Trombone</longName>
+        <shortName>Tbn.</shortName>
         <trackName>Trombone</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>74</maxPitchP>
@@ -147,8 +147,8 @@
         </Staff>
       <trackName>Baritone Horn 2</trackName>
       <Instrument id="baritone-horn-central-europe-treble">
-        <longName>Baritone Horn 2</longName>
-        <shortName>Bar. Hn. 2</shortName>
+        <longName>Baritone</longName>
+        <shortName>Bar. </shortName>
         <trackName>Baritone Horn (Central European, treble clef)</trackName>
         <minPitchP>34</minPitchP>
         <maxPitchP>70</maxPitchP>
@@ -183,7 +183,7 @@
       <show>0</show>
       <trackName>Bass Trombone</trackName>
       <Instrument id="bass-trombone">
-        <longName>Bass Trombone</longName>
+        <longName>Bass Trombone ישן</longName>
         <shortName>B. Tbn.</shortName>
         <trackName>Bass Trombone</trackName>
         <minPitchP>21</minPitchP>
@@ -216,7 +216,7 @@
       <show>0</show>
       <trackName>Baritone Horn</trackName>
       <Instrument id="baritone-horn-central-europe-treble">
-        <longName>Baritone Horn</longName>
+        <longName>Baritone Horn ישן</longName>
         <shortName>Bar. Hn.</shortName>
         <trackName>Baritone Horn (Central European, treble clef)</trackName>
         <minPitchP>34</minPitchP>
@@ -252,8 +252,8 @@
       <show>0</show>
       <trackName>Trombone</trackName>
       <Instrument id="trombone">
-        <longName>Trombone</longName>
-        <shortName>Tbn.</shortName>
+        <longName>Trombone ישן</longName>
+        <shortName>Tbn. 2</shortName>
         <trackName>Trombone</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>74</maxPitchP>

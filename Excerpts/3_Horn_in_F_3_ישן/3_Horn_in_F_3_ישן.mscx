@@ -4,7 +4,7 @@
   <programRevision>653f38d</programRevision>
   <Score>
     <eid>GlDXeU4zJ0C_+BiekIMfEmN</eid>
-    <name>Horn in F 3</name>
+    <name>Horn in F 3 ישן</name>
     <initialPartId>7</initialPartId>
     <Division>480</Division>
     <Style>
@@ -18,8 +18,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
-    <metaTag name="partName">Horn in F 3</metaTag>
+    <metaTag name="partName">Horn in F 3 ישן</metaTag>
     <Part id="7">
       <Staff>
         <eid>LXeGQq7egoJ_ffLBHZ+gNSC</eid>
@@ -76,7 +75,7 @@
         <Text>
           <eid>+IqNwgzv8WM_U0Cz5rT5iZM</eid>
           <style>instrument_excerpt</style>
-          <text>Horn in F 3</text>
+          <text>Horn in F 3 ישן</text>
           </Text>
         </VBox>
       <Measure>
