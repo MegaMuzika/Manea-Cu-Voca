@@ -4,14 +4,6 @@
             "instrumentId": "horn",
             "partId": "5",
             "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "trombone",
-            "partId": "4",
-            "soloMuteState": {
                 "mute": false,
                 "solo": false
             }
@@ -19,6 +11,14 @@
         {
             "instrumentId": "bass-trombone",
             "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "trombone",
+            "partId": "4",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

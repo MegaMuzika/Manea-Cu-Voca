@@ -11,6 +11,12 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.0889</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <createMultiMeasureRests>1</createMultiMeasureRests>
       <spatium>1.74978</spatium>
       </Style>
@@ -98,7 +104,7 @@
             <followText>1</followText>
             <eid>H8DuMD+e38K_lpuMSmwvUOL</eid>
             <linkedTo>57gJvW6sOHK_BZu/hSSHLGN</linkedTo>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 108</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 108</text>
             </Tempo>
           <Rest>
             <eid>nB10tvTPgX_E+iRsZh4qhD</eid>
